@@ -1,0 +1,26 @@
+
+Entwickler/in
+Server-Produkte für Dokumentenverarbeitung
+Foxit Europe GmbH, Berlin
+Wir suchen zum nächstmöglichen Termin eine(n) Softwareentwickler(in) für die Entwicklung neuer Softwareprodukte wie auch die Pflege unserer Bestandsprodukte.
+Wenn Sie sich für professionelle Softwareentwicklung interessieren, eine Tätigkeit in einem wirtschaftlich etablierten Unternehmen suchen und uns dabei unterstützen möchten, unseren Kunden weiterhin hochwertige Produkte zu liefern, dann haben wir ein Jobangebot für Sie.
+Ihre Aufgaben: Entwurf, Entwicklung, Pflege und Support von Softwarebibliotheken und Server-Produkten im Bereich der digitalen Bild- und Dokumentenverarbeitung
+Einsatzort: Berlin Charlottenburg (repräsentatives Büro am Lietzensee)
+Anstellung: bevorzugt Festanstellung in Vollzeit (Teilzeitarbeit oder freiberufliche Tätigkeit auch möglich)
+Termin: ab sofort
+Foxit bietet Ihnen anspruchsvolle Aufgaben und die Mitarbeit in einem hochmotivierten und qualifizierten Team. Ihre Ideen sind gefragt. Dafür bieten wir Ihnen eine gutes Gehalt und einen sichereren und modernen Arbeitsplatz.
+Ihr Profil:
+(Fach-)Hochschulabschluss oder eine abgeschlossene Ausbildung im naturwissenschaftlich-technischen Bereich
+Umfangreiche Kenntnisse in objektorientierter Entwicklung in mindestens einer der folgenden Sprachen und Umgebungen: C#/.Net, C/C++, ggf. auch Objective-C, Swift oder Java
+Praktische Erfahrung im Bereich professioneller Softwareentwicklung insbesondere der Konzeption, Erstellung und Wartung von Windows-Diensten und Web Services auf .Net-Basis
+Fähigkeit zum schnellen Einarbeiten in neue Programmiersprachen und Technologien
+Flexibilität im Umgang mit verschiedenen Entwicklungsumgebungen und -werkzeugen
+Schnelles Erfassen technischer Problemstellungen, sowie selbständiges, methodisches und gründliches Arbeiten
+Die Motivation, per Telefon und E-Mail im technischen Kundensupport mitzuwirken
+Gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Erfahrungen im Frontend oder mit Entwicklung und Wartung von Mobil-Apps unter iOS, Android oder mit Xamarin sind nicht erforderlich, wären aber ein weiterer Pluspunkt.
+Wenn Sie darüber hinaus teamfähig und kommunikativ sind, sich gerne ab und an in neue Aufgabenfelder einarbeiten und mittels Scrum und Continuous Integration agil Software entwickeln möchten, dann bewerben Sie sich umgehend!
+Für Fragen steht Ihnen unser Entwicklungsleiter Armin Ortmann unter 030-394050-0 zur Verfügung. Ihre vollständigen Bewerbungsunterlagen senden Sie bitte ausschließlich elektronisch als PDF-Dokument unter Angabe der Kennziffer 2017-DEV an: jobs_eu@foxitsoftware.com.
+Über Foxit Europe: Gegründet 1995 in Berlin als LuraTech GmbH, entwickelte sich das Unternehmen zu einem führenden Anbieter ISO-konformer Dokumenten- und Bildkompressionslösungen. Diese Erfolgsgeschichte setzen wir auch nach der Übernahme durch die Foxit Software Inc. im Jahre 2015 fort. Foxit Europe liefert weltweit Software, Services und herausragenden Support für die Konvertierung digitaler Dokumente.
+Zu unseren Produkten zählt der Foxit PDF Compressor, eine produktionstaugliche Anwendung zur Kompression und Umwandlung von gescannten oder digital erzeugten Dokumenten nach PDF und PDF/A einschließlich Texterkennung (OCR). Der Foxit Rendition Server bietet eine Plattform, die zahlreiche Funktionen der Do­kumen­ten­konvertierung als zentral administrierten Web Service bereitstellt. Die Angebotspalette der Foxit Europe wird ergänzt durch Apps und SDKs im Bereich des mobilen Scannens unter iOS und Android.
+Foxit ist ein stabiles, global agierendes Unternehmen mit definierten Wachstumszielen und klarer Strategie. Weitere Informationen über Foxit als weltweit zweitgrößten Anbieter von PDF-Softwarelösungen finden Sie unter www.foxitsoftware.com.

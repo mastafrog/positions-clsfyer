@@ -1,0 +1,94 @@
+/*
+var jq = document.createElement('script');
+jq.src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js";
+document.getElementsByTagName('head')[0].appendChild(jq);
+// ... give time for script to load, then type (or see below for non wait option)
+jQuery.noConflict();
+*/
+
+https://skillcrush.com/2015/03/05/41-tech-job-titles/
+
+
+
+Random Vocabulary
+Frameworks
+
+JavaScript
+    frameworks:
+        MobX  (ake: )
+        Omniscient
+        Ractive.js
+        Mercury
+        WebRx
+        Dek
+        Riot.js
+        Mithril
+        Vue.js
+        Angular.js
+        jQuery
+        React
+        Socket
+        PolymerNode.js
+        Meteor
+        D3.js
+        Ember
+        Aurelia
+        Knockout
+        Keystone
+        Backbone
+        Stapes
+        Choosin
+
+Java
+    frameworks:
+        Spring MVC
+        JSF Java Server Faces
+        GWT (Google Web Toolkit)
+        Wicket
+        Grails
+        Vaadin
+        Play Framework Play!
+        Spark
+        Struts
+        Netty
+        JavaFX
+        LibGDX
+        GWT
+
+
+
+
+
+PHP
+
+Python
+
+C#
+
+C++
+
+Ruby
+
+CSS
+
+C
+
+Objective-C
+
+Shell
+
+R
+
+Perl
+
+Scala
+
+Go
+
+Haskell
+
+Swift
+Matlab
+Visual Basic
+Clojure
+Groovy
