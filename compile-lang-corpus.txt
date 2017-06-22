@@ -8,6 +8,17 @@ jQuery.noConflict();
 
 https://skillcrush.com/2015/03/05/41-tech-job-titles/
 
+var concatArraysUniqueWithSort = function (thisArray, otherArray) {
+    var newArray = thisArray.concat(otherArray).sort(function (a, b) {
+        return a > b ? 1 : a < b ? -1 : 0;
+    });
+
+    return newArray.filter(function (item, index) {
+        return newArray.indexOf(item) === index;
+    });
+};
+
+var arrAll = concatArraysUniqueWithSort(arr1, arr2);
 
 
 Random Vocabulary
@@ -15,53 +26,62 @@ Frameworks
 
 JavaScript
     frameworks:
-        MobX  (ake: )
-        Omniscient
-        Ractive.js
-        Mercury
-        WebRx
-        Dek
-        Riot.js
-        Mithril
-        Vue.js
-        Angular.js
-        jQuery
-        React
-        Socket
-        PolymerNode.js
-        Meteor
-        D3.js
-        Ember
-        Aurelia
-        Knockout
-        Keystone
-        Backbone
-        Stapes
-        Choosin
+
+    MobX  (ake: )
+    Omniscient
+    Ractive.js
+    Mercury
+    WebRx
+    Dek
+    Riot.js
+    Mithril
+    Vue.js
+    Angular.js
+    jQuery
+    React
+    Socket
+    PolymerNode.js
+    Meteor
+    D3.js
+    Ember
+    Aurelia
+    Knockout
+    Keystone
+    Backbone
+    Stapes
+    Choosin
 
 Java
     frameworks:
-        Spring MVC
-        JSF Java Server Faces
-        GWT (Google Web Toolkit)
-        Wicket
-        Grails
-        Vaadin
-        Play Framework Play!
-        Spark
-        Struts
-        Netty
-        JavaFX
-        LibGDX
-        GWT
 
-
-
-
+    Spring MVC
+    JSF Java Server Faces
+    GWT (Google Web Toolkit)
+    Wicket
+    Grails
+    Vaadin
+    Play Framework Play!
+    Spark
+    Struts
+    Netty
+    JavaFX
+    LibGDX
+    GWT
 
 PHP
+    Laravel
+    Symfony
+    CodeIgniter
+    Yii
+    Phalcon
+    CakePHP
+    Zend
+    Slim
+    PHPFuel
+    PHPPixie
 
 Python
+CubicWeb2 Zope2 Web2py Web.py TurboGears Pylons Grok Web.py Pyramid CherryPy Flask Tornado CherryPy Bottle Klein Morepath ObjectWeb Pecan Grok
 
 C#
 
